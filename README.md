@@ -50,3 +50,9 @@ Complete Arm installation
 
 ![6#Complete Arm installation](https://user-images.githubusercontent.com/56201060/122449718-d9c8b280-cfae-11eb-923f-65509a840b29.jpg)
 
+
+
+#  simulation:
+
+ https://www.tinkercad.com/things/9HjATprcR4r 
+
