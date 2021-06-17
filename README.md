@@ -3,7 +3,7 @@
 Complete arm installation
 
 
-#  first piece
+#  First piece
 
   Base
   
@@ -12,7 +12,7 @@ Complete arm installation
   
 
 
-#  second piece
+#  Second piece
 
 waist
 
@@ -20,7 +20,7 @@ waist
 
 
 
-#  third piece
+#  Third piece
 
 Arm_1
 
@@ -28,7 +28,7 @@ Arm_1
 
 
 
-#  fourth piece
+#  Fourth piece
 
 Arm_2
 
@@ -44,7 +44,7 @@ Gipper001
 
 
 
-#  the final form
+#  The final form
 
 Complete Arm installation
 
@@ -52,7 +52,7 @@ Complete Arm installation
 
 
 
-#  simulation:
+#  Simulation:
 
  https://www.tinkercad.com/things/9HjATprcR4r 
 
