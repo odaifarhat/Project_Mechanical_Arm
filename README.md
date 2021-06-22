@@ -2,6 +2,7 @@
 
 Complete arm installation
 
+### Follow the following steps:
 
 #  First piece
 
